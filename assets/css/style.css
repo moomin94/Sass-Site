@@ -171,17 +171,14 @@ dl dd p {
   padding: 20px;
 }
 
-table {
-  width: 100%;
-  margin: 50px auto 0;
-  border-collapse: collapse;
-}
-
 table + .gbtn {
   margin-top: 20px;
 }
 
 table.common-table {
+  width: 100%;
+  margin: 50px auto 0;
+  border-collapse: collapse;
   /* 첫번째 테이블 속성의 타이틀 영역을 제외한 가로줄 hover 효과 주기 */
 }
 
