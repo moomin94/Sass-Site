@@ -154,6 +154,7 @@ table {
 #map {
   margin-top: 50px;
   .marker-title {
-    color: red;
+    font-weight: 700;
+    font-size: $fontSizeMid;
   }
 }

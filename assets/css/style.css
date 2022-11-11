@@ -215,7 +215,8 @@ table.common-table tr:not(:first-child):hover {
 }
 
 #map .marker-title {
-  color: red;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 #wrap {
