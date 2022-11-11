@@ -214,7 +214,7 @@ table.common-table tr:not(:first-child):hover {
   margin-top: 50px;
 }
 
-#map .marker-title {
+.marker-title {
   font-weight: 700;
   font-size: 18px;
 }

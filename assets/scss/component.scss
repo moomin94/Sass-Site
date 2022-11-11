@@ -153,8 +153,8 @@ table {
 // kakao map
 #map {
   margin-top: 50px;
-  .marker-title {
-    font-weight: 700;
-    font-size: $fontSizeMid;
-  }
+}
+.marker-title {
+  font-weight: 700;
+  font-size: $fontSizeMid;
 }
